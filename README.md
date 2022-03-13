@@ -1,4 +1,4 @@
-
+```bash
 # ===================================================================
 # COMMON SPRING BOOT PROPERTIES
 #
@@ -9,7 +9,7 @@
 # ----------------------------------------
 # CORE PROPERTIES
 # ----------------------------------------
-```bash
+
 # SPRING CONFIG (ConfigFileApplicationListener)
 spring.config.name= # config file name (default to 'application')
 spring.config.location= # location of config file
