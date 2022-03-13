@@ -1,4 +1,4 @@
-# application.property
+
 # ===================================================================
 # COMMON SPRING BOOT PROPERTIES
 #
@@ -9,7 +9,7 @@
 # ----------------------------------------
 # CORE PROPERTIES
 # ----------------------------------------
-
+```bash
 # SPRING CONFIG (ConfigFileApplicationListener)
 spring.config.name= # config file name (default to 'application')
 spring.config.location= # location of config file
@@ -370,3 +370,4 @@ shell.auth.spring.roles=
 
 # GIT INFO
 spring.git.properties= # resource ref to generated git info properties file
+```
