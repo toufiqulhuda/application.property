@@ -6,11 +6,11 @@
 # entirety to your own application.               ^^^
 # ===================================================================
 
-### ----------------------------------------
-### CORE PROPERTIES
-### ----------------------------------------
+# ----------------------------------------
+# CORE PROPERTIES
+# ----------------------------------------
 
-### SPRING CONFIG (ConfigFileApplicationListener)
+# SPRING CONFIG (ConfigFileApplicationListener)
 spring.config.name= # config file name (default to 'application')
 spring.config.location= # location of config file
 
